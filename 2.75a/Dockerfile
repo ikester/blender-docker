@@ -2,8 +2,8 @@ FROM ubuntu
 
 MAINTAINER Isaac "Ike" Arias <ikester@gmail.com>
 
-ENV BLENDER_MAJOR 2.73
-ENV BLENDER_VERSION 2.73a
+ENV BLENDER_MAJOR 2.75
+ENV BLENDER_VERSION 2.75a
 ENV BLENDER_BZ2_URL http://mirror.cs.umn.edu/blender.org/release/Blender$BLENDER_MAJOR/blender-$BLENDER_VERSION-linux-glibc211-x86_64.tar.bz2
 
 RUN apt-get update && \
