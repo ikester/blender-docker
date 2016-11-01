@@ -9,7 +9,8 @@ RUN apt-get update && \
 		libfreetype6 \
 		libgl1-mesa-dev \
 		libglu1-mesa \
-		libxi6 && \
+		libxi6 \
+		libxrender1 && \
 	apt-get -y autoremove && \
 	rm -rf /var/lib/apt/lists/*
 
