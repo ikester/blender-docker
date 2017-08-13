@@ -43,4 +43,8 @@ Blender versions are tracked in branches. The `master` branch will always be map
 
 Please visit the [GitHub Page](https://github.com/ikester/blender-docker) for details.
 
+# License
+
+This project is released under the MIT license. Please see the `LICENSE` file for details.
+
 ### Note: This is not an official Blender repository.
