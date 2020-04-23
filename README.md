@@ -1,6 +1,7 @@
 # Supported tags and respective `Dockerfile` links
 
-* [`2.82a`, `latest` (*2.82a/Dockerfile*)](https://github.com/ikester/blender-docker/blob/2.82a/Dockerfile)
+* [`2.82a-bionic`, `latest` (*2.82a-bionic/Dockerfile*)](https://github.com/ikester/blender-docker/blob/2.82a-bionic/Dockerfile)
+* [`2.82a` (*2.82a/Dockerfile*)](https://github.com/ikester/blender-docker/blob/2.82a/Dockerfile)
 * [`2.82` (*2.82/Dockerfile*)](https://github.com/ikester/blender-docker/blob/2.82/Dockerfile)
 * [`2.79` (*2.79/Dockerfile*)](https://github.com/ikester/blender-docker/blob/2.79/Dockerfile)
 * [`2.78c` (*2.78c/Dockerfile*)](https://github.com/ikester/blender-docker/blob/2.78c/Dockerfile)
